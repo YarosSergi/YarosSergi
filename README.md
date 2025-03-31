@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yaroslav 👋
 
-<!--
-**YarosSergi/YarosSergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI Systems Developer with a passion for automation, no-code tools, and building smart solutions using platforms like Make.com, n8n, Airtable, and GPT.
 
-Here are some ideas to get you started:
+Currently, I'm focused on:
+- 🧠 Building AI-powered bots using Dify.ai and OpenAI
+- 📊 Automating marketing and content workflows
+- 📱 Creating simple tools like a Telegram bot for expense tracking
+- 💡 Developing startup ideas that combine AI, automation, and business logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tools I use:
+Supabase · Airtable · Make · n8n · OpenAI · Dify.ai · Google Cloud Vision API · GPT-4 · Telegram Bots · LinkedIn API · Cursor
+
+🚀 I'm looking forward to joining collaborative projects, internships, and building products that solve real problems.
+
+Let’s connect and build something amazing together!
